@@ -70,7 +70,7 @@ export function HeroSection() {
             <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-2xl overflow-hidden bg-gradient-to-br from-primary/20 to-accent/20 p-1">
               <div className="w-full h-full rounded-xl overflow-hidden">
                 <Image
-                  src="/images/profile.png"
+                  src="/images/profile.jpg"
                   alt="Shepherd K. Mhlanga - Professional PSV/HGV Mechanic"
                   width={400}
                   height={400}
